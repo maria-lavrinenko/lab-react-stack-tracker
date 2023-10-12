@@ -1,0 +1,13 @@
+.TechPage {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 1.5rem;
+}
+
+.tech-logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}

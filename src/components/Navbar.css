@@ -1,0 +1,12 @@
+.Navbar {
+  background: #2c2059;
+  display: flex;
+  height: 5rem;
+  color: whitesmoke;
+  justify-content: left;
+  padding: 0 2rem;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
